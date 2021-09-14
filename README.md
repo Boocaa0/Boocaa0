@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Boocaa0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in games
+- 🌱 I’m currently learning anithing
+- 💞️ I’m looking to collaborate on  twitch
+- 📫 How to reach me money
+-
 
 <!---
 Boocaa0/Boocaa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
